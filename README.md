@@ -1,2 +1,0 @@
-# WCSC_task
-task
